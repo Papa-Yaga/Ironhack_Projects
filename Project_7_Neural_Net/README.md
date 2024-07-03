@@ -21,3 +21,5 @@ Going forward the model in this repo will be improved, especially in terms of sp
 values in the images. Additionally, a recursive layer structure will be added to improve the precision further. If time allows, 
 the model will also be upgraded to not only identify individual letters but full letter structures on paper, recognizing both
 the letter and its position on script.
+
+Due to the limited abilities of my system ive had to run the training in multiple steps á 5 Epochs. In total this model took about 50 Epochs.
